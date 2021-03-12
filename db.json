@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "nombre": "nuevonueowertwertwertewrt",
+      "precio": "113",
+      "id": 10
+    },
+    {
+      "nombre": "otro producto nuevo ",
+      "precio": "15637",
+      "id": 11
+    },
+    {
+      "nombre": "we",
+      "precio": 1,
+      "id": 12
+    }
+  ]
+}
